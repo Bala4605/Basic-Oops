@@ -1,0 +1,15 @@
+C:\Users\BalaBaskar\OneDrive - Syncfusion\Desktop\ConsoleApplications\LibraryManagement\bin\Debug\net7.0\LibraryManagement.exe
+C:\Users\BalaBaskar\OneDrive - Syncfusion\Desktop\ConsoleApplications\LibraryManagement\bin\Debug\net7.0\LibraryManagement.deps.json
+C:\Users\BalaBaskar\OneDrive - Syncfusion\Desktop\ConsoleApplications\LibraryManagement\bin\Debug\net7.0\LibraryManagement.runtimeconfig.json
+C:\Users\BalaBaskar\OneDrive - Syncfusion\Desktop\ConsoleApplications\LibraryManagement\bin\Debug\net7.0\LibraryManagement.dll
+C:\Users\BalaBaskar\OneDrive - Syncfusion\Desktop\ConsoleApplications\LibraryManagement\bin\Debug\net7.0\LibraryManagement.pdb
+C:\Users\BalaBaskar\OneDrive - Syncfusion\Desktop\ConsoleApplications\LibraryManagement\obj\Debug\net7.0\LibraryManagement.csproj.AssemblyReference.cache
+C:\Users\BalaBaskar\OneDrive - Syncfusion\Desktop\ConsoleApplications\LibraryManagement\obj\Debug\net7.0\LibraryManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BalaBaskar\OneDrive - Syncfusion\Desktop\ConsoleApplications\LibraryManagement\obj\Debug\net7.0\LibraryManagement.AssemblyInfoInputs.cache
+C:\Users\BalaBaskar\OneDrive - Syncfusion\Desktop\ConsoleApplications\LibraryManagement\obj\Debug\net7.0\LibraryManagement.AssemblyInfo.cs
+C:\Users\BalaBaskar\OneDrive - Syncfusion\Desktop\ConsoleApplications\LibraryManagement\obj\Debug\net7.0\LibraryManagement.csproj.CoreCompileInputs.cache
+C:\Users\BalaBaskar\OneDrive - Syncfusion\Desktop\ConsoleApplications\LibraryManagement\obj\Debug\net7.0\LibraryManagement.dll
+C:\Users\BalaBaskar\OneDrive - Syncfusion\Desktop\ConsoleApplications\LibraryManagement\obj\Debug\net7.0\refint\LibraryManagement.dll
+C:\Users\BalaBaskar\OneDrive - Syncfusion\Desktop\ConsoleApplications\LibraryManagement\obj\Debug\net7.0\LibraryManagement.pdb
+C:\Users\BalaBaskar\OneDrive - Syncfusion\Desktop\ConsoleApplications\LibraryManagement\obj\Debug\net7.0\LibraryManagement.genruntimeconfig.cache
+C:\Users\BalaBaskar\OneDrive - Syncfusion\Desktop\ConsoleApplications\LibraryManagement\obj\Debug\net7.0\ref\LibraryManagement.dll

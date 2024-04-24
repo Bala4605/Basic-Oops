@@ -1,0 +1,15 @@
+C:\Users\BalaBaskar\OneDrive - Syncfusion\Desktop\StudentAdmission\bin\Debug\net7.0\StudentAdmission.exe
+C:\Users\BalaBaskar\OneDrive - Syncfusion\Desktop\StudentAdmission\bin\Debug\net7.0\StudentAdmission.deps.json
+C:\Users\BalaBaskar\OneDrive - Syncfusion\Desktop\StudentAdmission\bin\Debug\net7.0\StudentAdmission.runtimeconfig.json
+C:\Users\BalaBaskar\OneDrive - Syncfusion\Desktop\StudentAdmission\bin\Debug\net7.0\StudentAdmission.dll
+C:\Users\BalaBaskar\OneDrive - Syncfusion\Desktop\StudentAdmission\bin\Debug\net7.0\StudentAdmission.pdb
+C:\Users\BalaBaskar\OneDrive - Syncfusion\Desktop\StudentAdmission\obj\Debug\net7.0\StudentAdmission.csproj.AssemblyReference.cache
+C:\Users\BalaBaskar\OneDrive - Syncfusion\Desktop\StudentAdmission\obj\Debug\net7.0\StudentAdmission.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BalaBaskar\OneDrive - Syncfusion\Desktop\StudentAdmission\obj\Debug\net7.0\StudentAdmission.AssemblyInfoInputs.cache
+C:\Users\BalaBaskar\OneDrive - Syncfusion\Desktop\StudentAdmission\obj\Debug\net7.0\StudentAdmission.AssemblyInfo.cs
+C:\Users\BalaBaskar\OneDrive - Syncfusion\Desktop\StudentAdmission\obj\Debug\net7.0\StudentAdmission.csproj.CoreCompileInputs.cache
+C:\Users\BalaBaskar\OneDrive - Syncfusion\Desktop\StudentAdmission\obj\Debug\net7.0\StudentAdmission.dll
+C:\Users\BalaBaskar\OneDrive - Syncfusion\Desktop\StudentAdmission\obj\Debug\net7.0\refint\StudentAdmission.dll
+C:\Users\BalaBaskar\OneDrive - Syncfusion\Desktop\StudentAdmission\obj\Debug\net7.0\StudentAdmission.pdb
+C:\Users\BalaBaskar\OneDrive - Syncfusion\Desktop\StudentAdmission\obj\Debug\net7.0\StudentAdmission.genruntimeconfig.cache
+C:\Users\BalaBaskar\OneDrive - Syncfusion\Desktop\StudentAdmission\obj\Debug\net7.0\ref\StudentAdmission.dll
